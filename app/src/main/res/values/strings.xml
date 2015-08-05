@@ -3,6 +3,6 @@
 
     <string name="app_name">JenkinSampleApp</string>
     <string name="hello_world">Imagine!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Nothing</string>
 
 </resources>
